@@ -1,0 +1,4 @@
+test/**/*.js
+--harmony
+--ui bdd
+--check-leaks
