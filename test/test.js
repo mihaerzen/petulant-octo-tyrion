@@ -4,7 +4,7 @@ var should = require('chai').should();
 describe('Test', function () {
 
     it('Should pass', function (done) {
-        assert.equal(0, 0);
+        assert.equal(true, false);
         done();
     });
 });
